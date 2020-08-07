@@ -1,7 +1,11 @@
 # Wireless Technologies mod
-#### Introducing you the vastness of wireless technologies! Enjoy designing your factory!
-- * [MutexLib](https://github.com/MutexMorgan/MutexLib/tree/master)
+#### Introducing you the vastness of wireless technologies! Enjoy designing your factory with such technologies!
+##### Dependencies
+- [MutexLib](https://github.com/MutexMorgan/MutexLib)
 ### What this mod is about?
-This is github repository of my main library mod. The mod itself is designed to be used with my other mods, but if would like to use it for some reason, feel free to do that.
-It contains repeatable data or scripts that other mods use so I can update it everywhere more easily.
-Also feel free to open issues if there is any. Any feedback or error report is very welcome.
+This is github repository of my Wireless Technologies mod. The mod introduces you multiple ways of transferring things wirelessly, including power, signals, items, liquids, or pollution.
+### Settings
+All types of remote transmitters will be possible to disable during the gameplay. So if you want to simply transmit power, but not willing to transfer items remotely, you can disable transmitters of all other types.
+### Examples
+For example, if you want to simply be able to transmit power for the remote outpost, but move items with trains, you can disable every other remote transmitter in the settings.
+Or if you are willing to be able to transmit all kinds of things, you can enable them all.
