@@ -1,0 +1,10 @@
+{
+    "name": "WirelessTechnologies",
+    "version": "0.1.1",
+    "title": "Wireless Technologies",
+    "description": "Introducing you the vastness of wireless technologies! Enjoy designing your factory!",
+    "author": "MutexMorgan",
+    "homepage": "https://mt.rns.space/vlr/factorio-hp",
+    "factorio_version": "0.18",
+    "dependencies": ["MutexLib >= 0.1.1"]
+}
